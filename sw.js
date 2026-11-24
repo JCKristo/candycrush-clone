@@ -1,6 +1,6 @@
 // Sugar Rush service worker: makes the game load instantly and play offline.
 // Bump VERSION whenever you change any file listed in PRECACHE.
-const VERSION = 'sugar-rush-v1';
+const VERSION = 'sugar-rush-v2';
 const PRECACHE = [
   '/',
   '/manifest.webmanifest',
